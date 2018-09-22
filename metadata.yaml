@@ -1,5 +1,5 @@
 _repo: The-Village-of-Hide-and-Seek_55214
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Dunton, W. Herbert
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '7987'
     url: http://www.gutenberg.org/2009/agents/7987
+covers:
+- cover_type: archival
+  image_path: 55214-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Bingham Thoburn
     gutenberg_agent_id: '48226'
     url: http://www.gutenberg.org/2009/agents/48226
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55214#The-Village-of-Hide-and-Seek
 gutenberg_issued: '2017-07-28'
 gutenberg_type: Text
 identifiers:
